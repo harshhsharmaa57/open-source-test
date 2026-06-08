@@ -23,4 +23,4 @@ func variablesDemo() {
 	count = 20
 
 	fmt.Printf("name=%s, count=%d\n", name, count)
-
+}
